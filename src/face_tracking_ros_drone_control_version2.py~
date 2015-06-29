@@ -18,7 +18,7 @@ from std_msgs.msg import Empty           # for land/takeoff/emergency
 from ardrone_autonomy.msg import Navdata # for receiving navdata feedback
 
 
-############################################ Global params# ################################################
+############################################ Global params ################################################
 alti = 0
 
 fil = open("log.txt",'a')
